@@ -169,5 +169,29 @@ main section:has(form){
     margin-top:10rem;
 }
 
+main section form{
+    background-color:#acacac;
+    opacity: 0.5;
+    width: 90%;
+    margin-left:10%;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    color:white;
+}
+
+main section form label,input, textarea, button{
+    width:94%;
+    margin-left:3%;
+}
+
+main section form textarea {
+    height:5rem;
+}
+
+main section form button{
+    text-align: center;
+    color:white;
+}
+
 
 
