@@ -92,14 +92,15 @@ main section:nth-child(2) div#search_result_wrapper{
     margin-top: 1rem;
     list-style-type: none;
     background-color:white;
-    box-shadow: #4d4d4d 2px 2px;
+    box-shadow: #4d4d4d 2px 1px;
+    color:#4d4d4d;
 
 }
 
 #search_result_wrapper ul li img {
     width:100%;
     height: 40%;
-
+    
 }
 
 main div:nth-child(1){
@@ -193,7 +194,7 @@ main section form{
 
 #contact_us button{
     text-align: center;
-    color:white;
+    color:#4d4d4d;
     width:94%;
     margin-left:3%;
 }
