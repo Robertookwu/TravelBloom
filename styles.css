@@ -179,18 +179,23 @@ main section form{
     color:white;
 }
 
-main section form label,input, textarea, button{
+#contact_us label, textarea{
     width:94%;
     margin-left:3%;
 }
-
-main section form textarea {
+#contact_us input {
+    width:94%;
+    margin-left:3%;
+}
+#contact_us textarea {
     height:5rem;
 }
 
-main section form button{
+#contact_us button{
     text-align: center;
     color:white;
+    width:94%;
+    margin-left:3%;
 }
 
 
